@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div id="header" align="center">
   <img src="https://cdn.dribbble.com/users/239755/screenshots/3019824/dave_coding_dribbble.gif" width="250"/>
-  <img src="https://media.giphy.com/media/10LNtHhhAhNMPu/giphy.gif" width="250"/>
+  <img src="https://media0.giphy.com/media/Y1vohJMVMtjSQxmUot/source.gif" width="250"/>
 </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=iranziprince01)](https://github.com/ryo-ma/github-profile-trophy)
