@@ -1,7 +1,8 @@
 ### Hi there 👋
 <div id="header" align="center">
   <img src="https://cdn.dribbble.com/users/239755/screenshots/3019824/dave_coding_dribbble.gif" width="250"/>
-  <img src="https://tse2.mm.bing.net/th?id=OIP.8MbBDYRQszSgV0NMFIobpQHaFj&pid=Api&H=119&W=160" width="250"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250"/>
+  <img src="http://www.textures4photoshop.com/tex/thumbs/matrix-code-animation-gif-free-animated-background-716.gif" width="250"/>
 </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=iranziprince01)](https://github.com/ryo-ma/github-profile-trophy)
