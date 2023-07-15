@@ -1,7 +1,6 @@
 ### Hi there 👋
-[![Typing SVG](https://cdn.dribbble.com/users/239755/screenshots/3019824/dave_coding_dribbble.gif)
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif" width="230"/><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3NwbHV0aTU5OThqczkxZHcwMmFxanpnZGlqNHp0MWI4dDBlazB5aSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9dHM/ksE9feSa2b4V2GYwY4/giphy.gif" width="230"/>
+  <img src="https://cdn.dribbble.com/users/239755/screenshots/3019824/dave_coding_dribbble.gif" width="230"/>
 </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=iranziprince01)](https://github.com/ryo-ma/github-profile-trophy)
