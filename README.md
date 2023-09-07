@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm a Frontend developer and Software Engineering student at African Leadership University, passionate about crafting user-centric web experiences. Committed to blending creativity and code to build intuitive digital solutions with Tech enthusiasm and continuous learning.
 <div id="header" align="center">
   <img src="https://cdn.dribbble.com/users/239755/screenshots/3019824/dave_coding_dribbble.gif" width="250"/>
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250"/>
