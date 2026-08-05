@@ -13,7 +13,7 @@ I'm a Software Engineer, passionate about crafting user-centric web experiences 
 - 🌱 I’m currently a **Software Engineering Student**
 - 👯 I’m looking for **Frontend web development internship**
 - 💬 Ask me **anything about Movies, Sports, Gospel songs, and programming**
-- 📫 Reach me at: **p.iranzi@alustudent.com**
+- 📫 Reach me at: **princeiranzi4@gmail.com**
 - 😄 Identified as: **Him/He**
 - ⚡ Fun fact about me: **Enjoying every funny moment**
 
