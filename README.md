@@ -8,10 +8,8 @@ I'm a Software Engineer, passionate about crafting user-centric web experiences 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=iranziprince01)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently learning  **Full-stack web development**
-- 🌱 Coding skills: **Shell scripting, Python and SQL**
-- 🌱 I’m currently a **Software Engineering Student**
-- 👯 I’m looking for **Frontend web development internship**
+- 🔭 I’m currently a  **Full-stack Software Engineert**
+- 🌱 Coding skills: **Web dev, Mobile App, Shell scripting, Python, and SQL**
 - 💬 Ask me **anything about Movies, Sports, Gospel songs, and programming**
 - 📫 Reach me at: **princeiranzi4@gmail.com**
 - 😄 Identified as: **Him/He**
