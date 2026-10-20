@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Software Engineer, passionate about crafting user-centric web experiences and shipping digital products that impact communities. Committed to blending creativity and code to build intuitive digital solutions with Tech enthusiasm and continuous learning.
+I'm a strategic Software Engineer, passionate about crafting user-centric web and mobile experiences and shipping digital products that impact communities. Committed to blending creativity and code to build intuitive digital solutions with Tech enthusiasm and continuous learning.
 <div id="header" align="center">
   <img src="https://cdn.dribbble.com/users/239755/screenshots/3019824/dave_coding_dribbble.gif" width="250"/>
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250"/>
@@ -8,11 +8,10 @@ I'm a Software Engineer, passionate about crafting user-centric web experiences 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=iranziprince01)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently a  **Full-stack Software Engineert**
+- 🔭 I’m currently a  **Full-stack Software Engineer**
 - 🌱 Coding skills: **Web dev, Mobile App, Shell scripting, Python, and SQL**
-- 💬 Ask me **anything about Movies, Sports, Gospel songs, and programming**
+- 💬 Ask me **anything about Detective Movies, Football, Gospel songs, Programming and Social Impact**
 - 📫 Reach me at: **princeiranzi4@gmail.com**
-- 😄 Identified as: **Him/He**
 - ⚡ Fun fact about me: **Enjoying every funny moment**
 
 ## 🌐 Connect with me:
